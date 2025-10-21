@@ -16,7 +16,6 @@ footer {
 
 #logo {
   text-align: center;
-  color: #fff;
 }
 
 header {
@@ -72,4 +71,8 @@ footer {
   font-size: 0.8em;
   text-align: center;
   font-style: italic;
+}
+
+a {
+  color: #fff;
 }
